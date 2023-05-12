@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+
+# Result
+<img src ="https://github.com/Mirzaazmath/flutter_NextGen_UI/blob/main/assets/result/result.png" height="400">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
